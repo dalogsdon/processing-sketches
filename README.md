@@ -1,2 +1,2 @@
-# processing-sketches
-A place to share Processing sketches
+# Processing Sketches
+A place for me to share Processing sketches
